@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: User
+Build-Jdk: 17.0.6
+Implementation-Title: lms-organization-service
+Implementation-Version: 1.0-SNAPSHOT
+Implementation-Vendor-Id: com.lms.services
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/lms-organization-service
+Created-By: Maven Integration for Eclipse
+
